@@ -145,7 +145,7 @@ span{
     color: var(--primary-0);
 }
 
-@media (max-width: 376px) {
+@media (max-width: 450px) {
     .card{
         width: none;
         border-radius: 0px;
